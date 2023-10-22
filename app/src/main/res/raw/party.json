@@ -1,0 +1,42 @@
+{
+  "partyImageUrl": "https://nerdylifeofmine.files.wordpress.com/2020/11/ljxdxwdq2zq41.jpg",
+  "partyName": "Отплытие в Валинор",
+  "inviter": {
+    "name": "Гэндальф Белый",
+    "photoUrl": "https://avatars.dzeninfra.ru/get-zen_doc/4581052/pub_6047888144edc66681591990_604788e8b8613c1dbb09f2a3/scale_1200"
+  },
+  "guests": [
+    {
+      "name": "Бильбо Бэггинсу",
+      "photoUrl": "https://img2.wtftime.ru/store/2021/09/03/0GK08GVx_big_poster.jpg"
+    },
+    {
+      "name": "Фродо Бэггинс",
+      "photoUrl": "https://chakiris.club/uploads/posts/2023-01/1675131182_chakiris-club-p-vlastelin-kolets-frodo-beggins-fentezi-vko-59.png"
+    },
+    {
+      "name": "Леди Галадриэль",
+      "photoUrl": "https://crosti.ru/patterns/00/0a/35/f3_picture_e99152ee.jpg"
+    },
+    {
+      "name": "Келеборн",
+      "photoUrl": "https://beedle.club/uploads/posts/2023-02/1677275804_beedle-club-p-keleborn-vlastelin-kolets-fentezi-art-31.jpg"
+    },
+    {
+      "name": "Гил-Галад",
+      "photoUrl": "https://avatars.dzeninfra.ru/get-zen_doc/4727350/pub_635398a8b7bdc273beb8dcb5_6353f2539d12053fcb630059/scale_1200"
+    },
+    {
+      "name": "Лорд Элронд",
+      "photoUrl": "https://chakiris.club/uploads/posts/2023-01/1675094827_chakiris-club-p-lord-elrond-vlastelin-kolets-fentezi-pinte-4.jpg"
+    },
+    {
+      "name": "Арвен Ундомиэль",
+      "photoUrl": "https://geekhero.ru/wp-content/uploads/2012/12/Arwen_3.jpg"
+    },
+    {
+      "name": "Элладан и Эльрохир",
+      "photoUrl": "https://m.media-amazon.com/images/M/MV5BNWI5NTIwMDAtN2NkYi00ZGYxLWI3NWItYTI3YWY4ZTRmOGNhXkEyXkFqcGdeQXVyMjMyNTkxNzY@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Invitations</string>
+    <string name="party_image_stub">картинка вечеринки</string>
+    <string name="inviter_text">вас пригласил</string>
+    <string name="inviter_name_stub">имя пригласившего</string>
+    <string name="inviter_photo_stub">фото пригласившего</string>
+    <string name="guests_text">гости</string>
+    <string name="guest_name_stub">имя гостя</string>
+    <string name="guest_photo_stub">фото гостя</string>
+</resources>
